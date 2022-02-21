@@ -13,16 +13,17 @@ The crowdsale contract that is created will manage the entire crowdsale process,
 ![KaseiCoin Crowdsale Compililation](Images/KaseiCoinCrowdsale_compile.png)
 ![KaseiCoin Crowdsale Deployer Compililation](Images/KaseiCoinCrowdsaleDeployer_compile.png)
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 [Movie - KaseiCoin Crowdsale Deployment Test](https://github.com/Abhishikaf/KaseiCoin_token/blob/main/Images/KaseiCoin_Deployment_test.mp4)
 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ## Technologies
 
